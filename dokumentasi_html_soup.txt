@@ -1,0 +1,15 @@
+dokumentasi beautiful soup
+
+basisnya ada disini:
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+	
+	
+pertama import dulu librarynya:
+	-from bs4 import BeautifulSoup --->import python
+	-import urllib juga
+	-tampung variabel list dokumen htmlnya ke lewat fungsi urllib.urlopen("nama website")
+	-abis itu di convert dulu raw data ke html parsernya si BeautifulSoup pake tampungParse = BeautifulSoup(nama_variabel_raw, "html.parser")
+	-jaga2 buat display pake print tampungParse.prettify()
+	
+	
+
