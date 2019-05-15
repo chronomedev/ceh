@@ -11,7 +11,7 @@ import time
 
 input1 = raw_input("Masukkan URL halaman login : ")
 
-list_variabel_input = coba.fetchListInput(input1)
+list_variabel_input = ambiltag.fetchListInput(input1)
 
 
 
