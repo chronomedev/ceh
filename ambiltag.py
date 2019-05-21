@@ -8,12 +8,15 @@ from bs4 import BeautifulSoup
 def fetchListInput(alamat_website):
     html_doc = urllib.urlopen(alamat_website)
     soup = BeautifulSoup(html_doc, 'html.parser')
-    # print(soup.prettify())
+    print(soup.prettify())
     print("\n")
-
+   
     tampung_variabel_elemen = []
     tampung_tag = soup.find_all('input')
+    print(tampung_tag)
     index = 0;
+
+    print("panjang array_TAG:::::{}".format(len(tampung_tag)))
     while(index < len(tampung_tag)):
         tampung_variabel_elemen.append(tampung_tag[index].get('name'))
         index = index + 1
@@ -42,9 +45,9 @@ def getFormAction(alamat_website):
 
 ###################yang di comment buat debugging aja
 
-input1 = raw_input("Ambil halaman web: ")
+# input1 = raw_input("Ambil halaman web: ")
 
-getFormAction(input1)
+# getFormAction(input1)
 
 
 # html_doc = urllib.urlopen("http://192.168.43.83/ceh/coba_site.html")
