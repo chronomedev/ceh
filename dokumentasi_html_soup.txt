@@ -12,4 +12,5 @@ pertama import dulu librarynya:
 	-jaga2 buat display pake print tampungParse.prettify()
 	
 	
-
+web kira2 bisa
+https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&amp;lwv=110

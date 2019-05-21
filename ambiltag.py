@@ -23,14 +23,28 @@ def fetchListInput(alamat_website):
 
 
 
+def getFormAction(alamat_website):
+    html = urllib.urlopen(alamat_website)
+    ekstrak_html = BeautifulSoup(html, "html.parser")
+    try:
+        print(ekstrak_html.form['action'])
+
+    except:
+        print("Form kosong")
+        
+
+    #print(ekstrak_html.form['action'])
+
+  
 
 
 
 
+###################yang di comment buat debugging aja
 
+input1 = raw_input("Ambil halaman web: ")
 
-
-
+getFormAction(input1)
 
 
 # html_doc = urllib.urlopen("http://192.168.43.83/ceh/coba_site.html")
