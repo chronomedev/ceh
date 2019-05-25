@@ -5,7 +5,7 @@ import string
 import time
 # import urllib
 # import re
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 
 
@@ -20,8 +20,8 @@ for x in file.readlines():
 	x = x.strip()
 	print "Trying " + x
 	data1 = {
-		list_variabel_input[0] : "admin",
-		list_variabel_input[1] : "%s" %x,
+		list_variabel_input[1] : "p00000013581",
+		list_variabel_input[2] : "%s" %x,
 		"submit" : "kirim"
 	}
 	print data1

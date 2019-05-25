@@ -6,7 +6,7 @@ browser.get("http://dialogio.rf.gd/view/login.php")
 innerHTML = browser.execute_script("return document.body.innerHTML") #returns the inner HTML as a string
 #username = browser.find_element_by_id("username") #username form field
 #Thread.sleep(10)
-browser.quit()ded
+browser.quit()
 
 
 print(innerHTML)
