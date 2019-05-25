@@ -10,14 +10,18 @@ def fetchListInput(link_request):
     hasil_soup = BeautifulSoup(fetchHTMLdoc(link_request), 'html.parser')
     print(hasil_soup.prettify())
     tampung_variabel_elemen = []
+    tampung_type_input = []
     tampung_tag = hasil_soup.find_all('input')
     print(tampung_tag)
     index = 0;
     print("panjang array_TAG:::::{}".format(len(tampung_tag)))
     while(index < len(tampung_tag)):
         tampung_variabel_elemen.append(tampung_tag[index].get('name'))
+        tampung_type_input.append(tampung_tag[index].get('type'))
         index = index + 1
 
+    print("--------------------------")
+    print(tampung_type_input)
 
     # html_doc = urllib.urlopen(alamat_website)
     # soup = BeautifulSoup(html_doc, 'html.parser')
