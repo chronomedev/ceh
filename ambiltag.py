@@ -16,10 +16,15 @@ def fetchListInput(link_request):
     index = 0;
     print("panjang array_TAG:::::{}".format(len(tampung_tag)))
     while(index < len(tampung_tag)):
-        tampung_variabel_elemen.append(tampung_tag[index].get('name'))
+        if tampung_tag[index].get('type') == 'password' or tampung_tag[index].get('type') == 'text':
+            print(tampung_tag[index].get('name'))
+            tampung_variabel_elemen.append(tampung_tag[index].get('name'))
+        
+        # tampung_variabel_elemen.append(tampung_tag[index].get('name'))
         tampung_type_input.append(tampung_tag[index].get('type'))
         index = index + 1
 
+    print("PANJANG CLEANSING::::{}".format(len(tampung_variabel_elemen)))
     print("--------------------------")
     print(tampung_type_input)
 

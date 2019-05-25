@@ -20,8 +20,8 @@ for x in file.readlines():
 	x = x.strip()
 	print "Trying " + x
 	data1 = {
-		list_variabel_input[1] : "p00000019178",
-		list_variabel_input[2] : "%s" %x
+		list_variabel_input[0] : "p00000019178",
+		list_variabel_input[1] : "%s" %x
 	}
 	print data1
 	response = requests.post(input1, data1)
