@@ -1,13 +1,13 @@
-import urllib
 import re
 from selenium import webdriver
 from bs4 import BeautifulSoup
+# import urllib
+
 
 
 
 # Fungsi untuk ambil list variabel input dari tag html (ambil atribut name)
-def fetchListInput(link_request):
-    hasil_soup = BeautifulSoup(fetchHTMLdoc(link_request), 'html.parser')
+def fetchListInput(hasil_soup):
     print(hasil_soup.prettify())
     tampung_variabel_elemen = []
     tampung_tag = hasil_soup.find_all('input')
@@ -37,21 +37,17 @@ def fetchHTMLdoc(link_request):
     browser = webdriver.Firefox()
     browser.get(link_request)
     innerHTML = browser.execute_script("return document.body.innerHTML")
+    html_soup = BeautifulSoup(innerHTML, 'html.parser')
     #browser.quit()
-    return innerHTML
+    return html_soup
 
 
 
 # fungsi untuk ambil action submit dari form
-def getFormAction(alamat_website):
-    html = urllib.urlopen(alamat_website)
-    ekstrak_html = BeautifulSoup(html, "html.parser")
-    try:
-        print(ekstrak_html.form['action'])
+def getFormAction(soup_html):
+    tag_form = soup_html.find_all("form")
+    print(tag_form)
 
-    except:
-        print("Form kosong")
-        
 
     #print(ekstrak_html.form['action'])
 
