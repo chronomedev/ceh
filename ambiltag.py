@@ -27,11 +27,6 @@ def fetchListInput(link_request):
     print("PANJANG CLEANSING::::{}".format(len(tampung_variabel_elemen)))
     print("--------------------------")
     print(tampung_type_input)
-
-    # html_doc = urllib.urlopen(alamat_website)
-    # soup = BeautifulSoup(html_doc, 'html.parser')
-    # print(soup.prettify())
-    # print("\n")
     return tampung_variabel_elemen
 
 
@@ -67,15 +62,3 @@ def getFormAction(alamat_website):
 # input1 = raw_input("Ambil halaman web: ")
 
 # getFormAction(input1)
-
-
-# html_doc = urllib.urlopen("http://192.168.43.83/ceh/coba_site.html")
-# soup = BeautifulSoup(html_doc, 'html.parser')
-# print(soup.prettify())
-# print("\n")
-# for z in soup.find_all('input'):
-#     print(z.get('name'))
-
-
-# tampung = soup.find_all('input')
-# print(tampung[0])
