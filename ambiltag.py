@@ -10,23 +10,25 @@ def fetchListInput(link_request):
     hasil_soup = BeautifulSoup(fetchHTMLdoc(link_request), 'html.parser')
     print(hasil_soup.prettify())
     tampung_variabel_elemen = []
-    tampung_type_input = []
     tampung_tag = hasil_soup.find_all('input')
     print(tampung_tag)
+
     index = 0;
     print("panjang array_TAG:::::{}".format(len(tampung_tag)))
     while(index < len(tampung_tag)):
-        if tampung_tag[index].get('type') == 'password' or tampung_tag[index].get('type') == 'text':
+        # if tampung_tag[index].get('type') == 'password' or tampung_tag[index].get('type') == 'text':
+        if tampung_tag[index].get('type') == 'password':
             print(tampung_tag[index].get('name'))
+            tampung_variabel_elemen.append(tampung_tag[index-1].get('name'))
             tampung_variabel_elemen.append(tampung_tag[index].get('name'))
+            break;
         
-        # tampung_variabel_elemen.append(tampung_tag[index].get('name'))
-        tampung_type_input.append(tampung_tag[index].get('type'))
+        
         index = index + 1
 
-    print("PANJANG CLEANSING::::{}".format(len(tampung_variabel_elemen)))
-    print("--------------------------")
-    print(tampung_type_input)
+    # print("PANJANG CLEANSING::::{}".format(len(tampung_variabel_elemen)))
+    # print("--------------------------")
+    print(tampung_variabel_elemen)
     return tampung_variabel_elemen
 
 
