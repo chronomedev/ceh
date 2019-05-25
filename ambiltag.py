@@ -23,7 +23,7 @@ def fetchListInput(link_request):
             tampung_variabel_elemen.append(tampung_tag[index].get('name'))
             break;
         
-        
+
         index = index + 1
 
     # print("PANJANG CLEANSING::::{}".format(len(tampung_variabel_elemen)))
@@ -42,6 +42,7 @@ def fetchHTMLdoc(link_request):
 
 
 
+# fungsi untuk ambil action submit dari form
 def getFormAction(alamat_website):
     html = urllib.urlopen(alamat_website)
     ekstrak_html = BeautifulSoup(html, "html.parser")
