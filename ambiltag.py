@@ -31,7 +31,7 @@ def fetchHTMLdoc(link_request):
     browser = webdriver.Firefox()
     browser.get(link_request)
     innerHTML = browser.execute_script("return document.body.innerHTML")
-    browser.quit()
+    #browser.quit()
     return innerHTML
 
 

