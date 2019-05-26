@@ -50,8 +50,9 @@ def getFormAction(soup_html):
         print('kosong bos')
         return None
     else:
+        print("ada bos")
         print(tag_form[0].get('action'))
-        return tag_form[0].get('action'))
+        return tag_form[0].get('action')
 
 
     #print(ekstrak_html.form['action'])

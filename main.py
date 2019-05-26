@@ -14,6 +14,9 @@ input1 = raw_input("Masukkan URL halaman login : ")
 html_ekstrak = ambiltag.fetchHTMLdoc(input1)
 list_variabel_input = ambiltag.fetchListInput(html_ekstrak)
 
+
+pecah = input1.split("/")
+
 request_url_force = ambiltag.getFormAction(html_ekstrak)
 if request_url_force != None or request_url_force != "":
 	 link_url_force = "https://my.umn.ac.id/" + request_url_force
