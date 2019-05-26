@@ -46,7 +46,12 @@ def fetchHTMLdoc(link_request):
 # fungsi untuk ambil action submit dari form
 def getFormAction(soup_html):
     tag_form = soup_html.find_all("form")
-    print(tag_form)
+    if tag_form[0].get('action') == "" or tag_form[0].get('action') == None:
+        print('kosong bos')
+        return None
+    else:
+        print(tag_form[0].get('action'))
+        return tag_form[0].get('action'))
 
 
     #print(ekstrak_html.form['action'])
