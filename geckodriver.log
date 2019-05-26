@@ -466,3 +466,2475 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
 
+1558797307553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.klTUSUoHMNsl"
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:5136): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558797310151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558797310152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558797310152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5269): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5295): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5350): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558797317700	Marionette	INFO	Listening on port 38127
+1558797317809	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558797380128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.shgPtrzvEYZA"
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:5419): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558797381142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558797381143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558797381143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5495): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5512): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558797384691	Marionette	INFO	Listening on port 35159
+1558797384835	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5576): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558798564690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QkbAGlB4R0ti"
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:1501): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558798570006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558798570008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558798570008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:1608): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:1637): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:1692): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558798577830	Marionette	INFO	Listening on port 33939
+1558798577920	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 1501, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-Zni615/firefox-66.0.5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1558798930469	Marionette	INFO	Stopped listening on port 33939
+1558800328202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BVkNiced73zy"
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:2318): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558800329397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558800329398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558800329398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:2372): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:2395): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:2452): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558800333494	Marionette	INFO	Listening on port 45625
+1558800333612	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558801739157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e2O5e2Rt8R8H"
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:3112): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558801740430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558801740431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558801740431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3165): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3171): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3248): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558801745221	Marionette	INFO	Listening on port 36933
+1558801745259	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3112, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-Zni615/firefox-66.0.5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558801874909	Marionette	INFO	Stopped listening on port 36933
+1558801879669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.o4QJ21PJwYVI"
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:3384): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558801880742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558801880743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558801880744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3454): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3477): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3529): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558801884332	Marionette	INFO	Listening on port 40347
+1558801884435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558801967589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cCV5r65DcIKw"
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:3695): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558801968624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558801968625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558801968626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3763): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3769): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558801973030	Marionette	INFO	Listening on port 46705
+1558801973120	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3852): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:3902): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558802285922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4f4mTcQLeN6l"
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:4025): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802287229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558802287229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558802287229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4080): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4097): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802293105	Marionette	INFO	Listening on port 44937
+1558802293234	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4161): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802340184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MOcDxHAdq7j5"
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:4268): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802341585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558802341586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558802341586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4358): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802346835	Marionette	INFO	Listening on port 40101
+1558802346926	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4416): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802357885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UXckGzHifq51"
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:4469): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802359158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558802359159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558802359159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+1558802364347	Marionette	INFO	Listening on port 43705
+1558802364394	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4561): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:4650): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558802647860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8HZ7KahmAb1O"
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:4901): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802656908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558802656909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558802656910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558802657218	Marionette	INFO	Stopped listening on port 43705
+1558802659350	Marionette	INFO	Stopped listening on port 40101
+1558802660258	Marionette	INFO	Stopped listening on port 44937
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+1558802668233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F9c8A9fZuIgs"
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(firefox:5079): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802669267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558802669268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558802669268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 105: TypeError: XPCOMUtils.generateQI is not a function
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5172): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5201): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:186:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2749:24: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2940:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2946:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4083:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4088:17: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4729:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: xfce.css:47:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:16:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:26:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:40:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:96:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:100:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: not a number
+
+(/usr/lib/firefox/firefox:5254): Gtk-WARNING **: Theme parsing error: lightdm-gtk-greeter.css:279:14: Expected a string.
+1558802673829	Marionette	INFO	Listening on port 42925
+1558802673948	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
