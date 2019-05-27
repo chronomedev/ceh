@@ -38,7 +38,7 @@ if form_action_url != None or form_action_url != "":
 		if match == False:
 			link_url_force = ambiltag.linkCleansing(pecah, form_action_url)
 		else:
-			link_url_force = ambiltag.linkCleansing(pecah, form_action_url)
+			link_url_force = form_action_url
 	print(pecah)
 	
 else:
