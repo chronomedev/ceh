@@ -57,6 +57,29 @@ def getFormAction(soup_html):
 
     #print(ekstrak_html.form['action'])
 
+
+# fungsi untuk cleansing request URL
+def linkCleansing(pecah, form_action_url):
+    link_url_force = ""
+    indeks_loop = 0
+    while(indeks_loop<len(pecah)):
+        if indeks_loop == (len(pecah)-1):
+		    link_url_force = link_url_force + "/" + form_action_url
+        elif indeks_loop == 0 :
+		    link_url_force = link_url_force + pecah[indeks_loop] + "//"
+        elif pecah[indeks_loop] == "" :
+			indeks_loop = indeks_loop + 1
+			continue
+        else:
+		    link_url_force = link_url_force + pecah[indeks_loop] + "/"
+		    print(pecah[indeks_loop])
+
+        indeks_loop = indeks_loop+1
+
+    return link_url_force	    
+
+
+
   
 
 
