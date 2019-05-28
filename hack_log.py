@@ -9,6 +9,9 @@ import sys
 # import re
 # from bs4 import BeautifulSoup
 
+# Main entry untuk program Hack Log # 
+#2019 Hacktivist Group
+
 pilihan = None
 print("======  H|4|C|K  L|0|G  ======")
 print("------ Hacking Tools ------\n")
