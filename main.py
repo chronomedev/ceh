@@ -15,10 +15,8 @@ print("*Ketik '-help' untuk menampilkan pilihan dalam tools ini ")
 while(True):
 	pilihan = raw_input("> ")
 	if pilihan == "web-hack":
-		# do web hacking apps
 		library_fungsi.webHack()
 	elif pilihan == "-help":
-		# do list all application function
 		library_fungsi.showAllHelp()
 	elif pilihan == "quit" or pilihan == "exit" or pilihan =="keluar":
 		sys.exit()
