@@ -32,13 +32,13 @@ def fetchListInput(hasil_soup):
     return tampung_variabel_elemen
 
 
-# driver fetch HTML document HTML
+# driver fetch HTML document HTML using Selenium gecko driver
 def fetchHTMLdoc(link_request):
     browser = webdriver.Firefox()
     browser.get(link_request)
     innerHTML = browser.execute_script("return document.body.innerHTML")
     html_soup = BeautifulSoup(innerHTML, 'html.parser')
-    #browser.quit()
+    browser.quit()
     return html_soup
 
 
@@ -46,10 +46,39 @@ def fetchHTMLdoc(link_request):
 # fungsi untuk ambil action submit dari form
 def getFormAction(soup_html):
     tag_form = soup_html.find_all("form")
-    print(tag_form)
+    if tag_form[0].get('action') == "" or tag_form[0].get('action') == None:
+        print('kosong bos')
+        return None
+    else:
+        print("ada bos")
+        print(tag_form[0].get('action'))
+        return tag_form[0].get('action')
 
 
     #print(ekstrak_html.form['action'])
+
+
+# fungsi untuk cleansing request URL
+def linkCleansing(pecah, form_action_url):
+    link_url_force = ""
+    indeks_loop = 0
+    while(indeks_loop<len(pecah)):
+        if indeks_loop == (len(pecah)-1):
+		    link_url_force = link_url_force + "/" + form_action_url
+        elif indeks_loop == 0 :
+		    link_url_force = link_url_force + pecah[indeks_loop] + "//"
+        elif pecah[indeks_loop] == "" :
+			indeks_loop = indeks_loop + 1
+			continue
+        else:
+		    link_url_force = link_url_force + pecah[indeks_loop] + "/"
+		    print(pecah[indeks_loop])
+
+        indeks_loop = indeks_loop+1
+
+    return link_url_force	    
+
+
 
   
 
@@ -57,7 +86,3 @@ def getFormAction(soup_html):
 
 
 ###################yang di comment buat debugging aja
-
-# input1 = raw_input("Ambil halaman web: ")
-
-# getFormAction(input1)
