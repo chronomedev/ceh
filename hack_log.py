@@ -10,7 +10,8 @@ import sys
 # from bs4 import BeautifulSoup
 
 pilihan = None
-print("------ Aplikasi hacking webserver ------")
+print("======  H|4|C|K  L|0|G  ======")
+print("------ Hacking Tools ------\n")
 print("*Ketik '-help' untuk menampilkan pilihan dalam tools ini ")
 while(True):
 	pilihan = raw_input("> ")
