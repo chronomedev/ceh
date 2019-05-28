@@ -10,7 +10,7 @@ import time
 
 
 input1 = raw_input("Masukkan URL halaman login : ")
-
+input_err_msg = raw_input("Masukan error message yang terdapat pada website tersebut : ")
 html_ekstrak = ambiltag.fetchHTMLdoc(input1)
 list_variabel_input = ambiltag.fetchListInput(html_ekstrak)
 
@@ -24,7 +24,7 @@ if form_action_url != None or form_action_url != "":
 	print(pecah2)
 
 	if len(pecah2) == 1:
-		link_url_force = ambiltag.linkCleansing(pecah, form_action_url)	
+            link_url_force = ambiltag.linkCleansing(pecah, form_action_url)
 	else:
 		z = 0
 		match = False

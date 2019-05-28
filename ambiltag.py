@@ -32,13 +32,13 @@ def fetchListInput(hasil_soup):
     return tampung_variabel_elemen
 
 
-# driver fetch HTML document HTML
+# driver fetch HTML document HTML using Selenium gecko driver
 def fetchHTMLdoc(link_request):
     browser = webdriver.Firefox()
     browser.get(link_request)
     innerHTML = browser.execute_script("return document.body.innerHTML")
     html_soup = BeautifulSoup(innerHTML, 'html.parser')
-    #browser.quit()
+    browser.quit()
     return html_soup
 
 
@@ -86,7 +86,3 @@ def linkCleansing(pecah, form_action_url):
 
 
 ###################yang di comment buat debugging aja
-
-# input1 = raw_input("Ambil halaman web: ")
-
-# getFormAction(input1)
