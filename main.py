@@ -14,9 +14,11 @@ print("------ Aplikasi hacking webserver ------")
 print("*Ketik '-help' untuk menampilkan pilihan dalam tools ini ")
 while(True):
 	pilihan = raw_input("> ")
-	if pilihan == "web-hack":
+	if pilihan == "dictionary":
 		library_fungsi.webHack()
 	elif pilihan == "-help":
 		library_fungsi.showAllHelp()
+	elif pilihan == "sql":
+		library_fungsi.sqlHack()
 	elif pilihan == "quit" or pilihan == "exit" or pilihan =="keluar":
 		sys.exit()
